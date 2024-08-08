@@ -1,6 +1,6 @@
 <h1 align="center">Hi, we are the HxH team</h1>
 <h3 align="center">Here we develop products for our organization and for our clients.</h3>
-<p>Visit our website to learn more about us: <a href="https://marketing.hxh.agency"></a></p>
+<h4 align="center">Visit <a href="https://marketing.hxh.agency">our website</a> to learn more about us: </h4>
 
 ---
 
