@@ -7,11 +7,17 @@
 <h4 align="left">Contacts:</h4>
   
 <a href='https://vk.com/hxh_marketing'>
-  <img src="https://img.shields.io/badge/HxH Marketing-vk?style=for-the-badge&logo=Vk&logoColor=white&color=blue"/>
+  <img src="https://img.shields.io/badge/HxH Agency-vk?style=for-the-badge&logo=Vk&logoColor=white&color=blue"/>
 </a>
-<a href='https://dzen.ru/hxh'>
+<a href='https://t.me/+VhPZc43T3SI3YzRi'>
+  <img src="https://img.shields.io/badge/HxH Agency-telegram?style=for-the-badge&logo=Telegram&logoColor=white&color=blue"/>
+</a>
+<a href='https://www.youtube.com/@hxhagency'>
+  <img src="https://img.shields.io/badge/HxH Agency-youtube?style=for-the-badge&logo=Youtube&logoColor=white&color=red"/>
+</a>
+<!-- <a href='https://dzen.ru/hxh'>
   <img src="https://img.shields.io/badge/HxH-dzen?style=for-the-badge&logo=Dzen&logoColor=white&color=black"/>
-</a>
+</a> -->
 <a href='https://instagram.com/hxhdesign'>
   <img src="https://img.shields.io/badge/HxH Design-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
